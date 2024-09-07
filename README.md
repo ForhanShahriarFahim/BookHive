@@ -21,7 +21,7 @@ This is a simple Laravel project designed to manage a bookstore. The system allo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/BookHive.git
+git clone https://github.com/ForhanShahriarFahim/BookHive.git
 cd BookHive
 ```
 
